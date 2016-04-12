@@ -1,0 +1,33 @@
+
+body {
+font-size: 1.15em;
+}
+
+table {
+margin-left:5%;
+margin-right:auto;
+width: 40%;
+}
+
+th {
+font-style: italic;
+padding-bottom:0;
+}
+
+#info {
+width:52%;
+}
+
+#picture {
+width:48%;
+}
+
+p {
+text-align:left;
+}
+
+img {
+vertical-align:center;
+margin-left: 10px;
+width:170px;
+}
