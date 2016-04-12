@@ -1,0 +1,25 @@
+table, td {
+border-color:lightgrey;
+border-width:5px;
+border-style:inset;
+border-collapse: collapse
+}
+
+td {
+padding:2px;
+width:30px;
+text-align:center;
+}
+
+.right {
+text-align:right;
+}
+
+.left {
+text-align:left;
+}
+
+.right-bottom {
+text-align:right;
+vertical-align:bottom;
+}
