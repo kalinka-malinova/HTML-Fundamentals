@@ -1,0 +1,51 @@
+body {
+    font-family:Verdana, SansSerif;
+}
+
+#outer {
+    border: 2px solid black;
+    border-collapse: collapse;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border-radius:10px;
+    width: 800px;
+}
+
+#tableTitle {
+    border: 2px solid black;
+    border-collapse: collapse;
+    font-size: 20px;
+    height: 50px;
+}
+
+#links {
+    border: 2px solid black;
+    border-collapse: collapse;
+
+}
+
+#links a {
+    color: deepskyblue;
+    padding: 2px;
+}
+
+
+#outer tbody {
+    height: auto;
+}
+
+#inner {
+    border: 2px solid black;
+    margin: 10px;
+}
+
+fieldset {
+    height: auto;
+    width: auto;
+    margin: 5px;
+    border: 2px solid black;
+}
+
+.air  {
+    width: 120px;
+}
