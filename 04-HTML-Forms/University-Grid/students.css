@@ -1,0 +1,11 @@
+
+table, th, td {
+   border: 2px solid lightgrey;
+   border-collapse: collapse;
+   border-style:inset;
+}
+
+.average {
+  font-weight: bold;
+  text-align: center;
+}
