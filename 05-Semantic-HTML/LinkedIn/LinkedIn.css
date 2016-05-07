@@ -1,0 +1,9 @@
+ul.disc {
+    list-style-type: disc;
+}
+ul.circle {
+    list-style-type: circle;
+}
+.noBorder {
+    border: none;
+}
