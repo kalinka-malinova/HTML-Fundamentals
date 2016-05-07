@@ -1,0 +1,36 @@
+body {
+    font-family: Verdana, SansSerif;
+}
+
+img.logo {
+    width: 200px;
+    position: absolute;
+    top: auto;
+    left: 10%;
+}
+
+#mainTitle, h2 {
+    text-align: center;
+    }
+
+nav {
+    position: absolute;
+    top: 20%;
+    left: 10%;
+}
+
+#wrapper {
+    position: absolute;
+    top: 20%;
+    left: 40%;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    text-align: center;
+    padding: 10px;
+}
